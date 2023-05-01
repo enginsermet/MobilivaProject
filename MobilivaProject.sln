@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobilivaProject", "MobilivaProject\MobilivaProject.csproj", "{58526BD4-F633-447F-A3E3-06721AD48C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilivaRabitMQ", "MobilivaRabitMQ\MobilivaRabitMQ.csproj", "{78B4044C-9826-4E2D-8C61-26D22D69BD39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58526BD4-F633-447F-A3E3-06721AD48C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58526BD4-F633-447F-A3E3-06721AD48C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58526BD4-F633-447F-A3E3-06721AD48C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58526BD4-F633-447F-A3E3-06721AD48C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B4044C-9826-4E2D-8C61-26D22D69BD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B4044C-9826-4E2D-8C61-26D22D69BD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B4044C-9826-4E2D-8C61-26D22D69BD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B4044C-9826-4E2D-8C61-26D22D69BD39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743A0E42-5413-4557-9752-4E0A4636560C}
+	EndGlobalSection
+EndGlobal
